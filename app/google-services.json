@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586308938223",
+    "project_id": "medenjaci-51786",
+    "storage_bucket": "medenjaci-51786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586308938223:android:89c53a299c38f8b9016e1a",
+        "android_client_info": {
+          "package_name": "com.example.medenjaci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586308938223-5f8rs1l2c1rpb3dcrgke9u6n1a9roilf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5o4yb1WxcUPIwvY64KLCUk8DCVmIcFmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586308938223-5f8rs1l2c1rpb3dcrgke9u6n1a9roilf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
